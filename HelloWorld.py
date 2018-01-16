@@ -1,2 +1,1 @@
-print("Hello, World!")
-print("Hello, MingMing!")
+print("Greeting Earth! We come in peace.")
